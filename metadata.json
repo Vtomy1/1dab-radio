@@ -1,0 +1,6 @@
+{
+  "name": "Aether DAB+ Digital Radio",
+  "description": "Precision DAB/DAB+ digital radio streamer with live multiplex tuning, station organization, custom folder management, and hardware-inspired audio controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
